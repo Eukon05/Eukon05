@@ -37,4 +37,4 @@ I always look forward to new challenges and opportunities to broaden my skill se
 ### My GitHub Stats:
 
 <img src="https://github-readme-stats.vercel.app/api?username=Eukon05&show_icons=true&theme=radical" height=200 align=left>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Eukon05&theme=radical&&layout=compact&card_width=370" height=200 align=center>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Eukon05&theme=radical&layout=compact&card_width=370" height=200 align=center>
