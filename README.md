@@ -29,12 +29,3 @@ I always look forward to new challenges and opportunities to broaden my skill se
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white)
-
-### Tools I've used at uni:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-
-### My GitHub Stats:
-
-<img src="https://github-readme-stats.vercel.app/api?username=Eukon05&show_icons=true&theme=radical" height=200 align=left>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Eukon05&theme=radical&layout=compact&card_width=370" height=200 align=center>
